@@ -2,19 +2,6 @@
 
 This project implements a Convolutional Neural Network (CNN) from scratch using TensorFlow/Keras to classify traffic signs. The goal is to build a robust image classification pipeline that can accurately identify various traffic signs from images.
 
----
-
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [License](#license)
-
----
 
 ## 📖 Overview
 
