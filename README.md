@@ -2,14 +2,6 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![PyTorch 1.0](https://img.shields.io/badge/pytorch-1.0-green.svg?style=plastic)
 
-Code for Detection of Glottal Closure Instants using Deep Dilated Convolutional Neural Networks [<mark>[Paper]</mark>](https://arxiv.org/abs/1804.10147)
-
-_Published in INTERSPEECH-2019 (poster)_
-
-
-Authors: Mohit Goyal\*, Varun Srivastava\*, Prathosh A.P.
-
-\* _Equal Contribution_
 
 ![State of the art results on GCI detection](./images/results.png)
 <center> The proposed algorithm <strong>CNN</strong> demonstrates best performance across speakers, noise types and noise SNRs </center>
