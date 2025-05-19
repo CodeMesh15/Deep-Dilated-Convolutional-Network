@@ -1,0 +1,1 @@
+“This project implements a basic CNN using dilated convolutions for image classification. Dilated convolutions increase the receptive field without increasing the number of parameters or downsampling. I trained this on CIFAR-10 and saw improved performance in capturing broader patterns without using pooling layers early. The code is modular, making it easy to test and evaluate.”
